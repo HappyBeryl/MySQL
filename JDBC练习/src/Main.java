@@ -42,7 +42,7 @@ public class Main {
         if (globalUserId == -1) {
             System.out.println("Qing xian denglu");
             return;
-        }
+        }n
         // 需要用户名输入标题 + 正文
         Scanner scanner = new Scanner(System.in);
         String title = scanner.nextLine();
